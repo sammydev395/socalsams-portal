@@ -20,7 +20,7 @@ define('DB_NAME', 'tehfrmergw');
 /** MySQL database username */
 define('DB_USER', 'tehfrmergw');
 /** MySQL database password */
-define('DB_PASSWORD', 'n4NpaGDUXu');
+define('DB_PASSWORD', 'SoCalSams295!!');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 /** Database Charset to use in creating database tables. */
